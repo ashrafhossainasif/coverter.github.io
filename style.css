@@ -1,0 +1,39 @@
+*{
+    box-sizing: border-box;
+}
+h1{
+    color:blue;
+}
+p{
+    font-size: 20px;
+    font-weight: 600;
+}
+.container{
+    padding: 4% 40%;
+    background-color: lightyellow;
+    border: black solid 5px;
+}
+select{
+    background-color: black;
+    color: white;
+}
+option{
+    color: white;
+    background-color: red;
+}
+button{
+    padding: 15px;
+    margin: 47px;
+    text-align: center;
+    color: white;
+    font-size: 15px;
+    font-weight: 500;
+    background-color: seagreen;
+}
+button:hover{
+    background-color: blue;
+}
+input{
+    margin-left: 15px;
+    border:blue solid 2px;
+}
